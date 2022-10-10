@@ -1,2 +1,2 @@
-# skiv.neocities.com
-A crappy website.
+# kuniklo-neocities
+https://kuniklo.neocities.org/
