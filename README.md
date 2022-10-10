@@ -1,2 +1,2 @@
-# kuniklo-neocities
-https://kuniklo.neocities.org/
+# skiv-neocities
+https://skiv.neocities.org/
